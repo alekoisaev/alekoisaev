@@ -8,6 +8,5 @@
 
 
 
-- 🔭 I’m Software Enginner at @Noxtton.
-- 🌱 I’m Smart-contract and Front-end Dev.
+- 🔭 I’m Developer at <a href="https://x.com/OnChainAlchemy">
 - 🦾 My Tech Stack: React, Solidity.
