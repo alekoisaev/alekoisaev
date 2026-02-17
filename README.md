@@ -4,7 +4,7 @@
 ### More info about me: <a href="https://github.com/alekoisaev/alekoisaev/blob/master/resume1.pdf">Click<a/>. 
 ---
 
-Senior Full-stack developer . Hands-on experience with top lending, AMM and perp DEX protocols in on-chain space. Built liquidation contracts from scratch on L2 — **liquidated positions 5+ million dollars in production.** Go the full cycle: write contracts, connect them to backend systems (Node.js, TypeScript, GraphQL, subgraphs), and build the frontend on top. Built backend infrastructure for L2 blockchain interaction, on-chain arbitrage systems. Lead Core developer of a fully on-chain generative art game. Worked with Move on Sui, Rust via Stylus SDK on Arbitrum. Run and maintain geth & reth nodes on VMs.
+Senior Full-stack developer . Hands-on experience with top lending, AMM and perp DEX protocols in on-chain space. Built liquidation contracts from scratch on L2 — **liquidated positions 5+ million $ in production.** Go the full cycle: write contracts, connect them to backend systems (Node.js, TypeScript, GraphQL, subgraphs), and build the frontend on top. Built backend infrastructure for L2 blockchain interaction, on-chain arbitrage systems. Lead Core developer of a fully on-chain generative art game. Worked with Move on Sui, Rust via Stylus SDK on Arbitrum. Run and maintain geth & reth nodes on VMs.
 
 ---
 
@@ -22,7 +22,7 @@ Senior Full-stack developer . Hands-on experience with top lending, AMM and perp
 Uniswap V2/V3/V4 integrations including custom hooks (limit order execution, dynamic fee adjustment, custom accounting), flash-loan based execution on Aave V3 and Morpho Blue, perpetual trading and liquidation protocols on L2.
 
  **MEV & Arbitrage Infrastructure**  
-Multi-DEX arbitrage system scanning 15+ AMMs (Uni V2/V3/V4, Curve, Balancer) with custom pathfinding and atomic cross-pool execution via assembly-optimized router contracts.
+Multi-DEX arbitrage system scanning. Indexers from scratch for perpDEXes(Orderly, Vertex, JOJO). **Liquidated positions 5+ million $.**
 
  **Cross-chain & Low-level**  
 LayerZero cross-chain contracts, Solidity → Rust migration using Stylus SDK on Arbitrum, inline assembly, struct packing, storage layout optimization. Experience writing Move contracts on **Sui**.
