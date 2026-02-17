@@ -18,17 +18,17 @@ Senior Full-stack developer . Hands-on experience with top lending, AMM and perp
 
 ## What I build
 
-### **DeFi Protocol Development**
+ **DeFi Protocol Development**  
 Uniswap V2/V3/V4 integrations including custom hooks (limit order execution, dynamic fee adjustment, custom accounting), flash-loan based execution on Aave V3 and Morpho Blue, perpetual trading and liquidation protocols on L2.
 
-### **MEV & Arbitrage Infrastructure**  
+ **MEV & Arbitrage Infrastructure**  
 Multi-DEX arbitrage system scanning 15+ AMMs (Uni V2/V3/V4, Curve, Balancer) with custom pathfinding and atomic cross-pool execution via assembly-optimized router contracts.
 
-### **Cross-chain & Low-level**  
+ **Cross-chain & Low-level**  
 LayerZero cross-chain contracts, Solidity → Rust migration using Stylus SDK on Arbitrum, inline assembly, struct packing, storage layout optimization. Experience writing Move contracts on **Sui**.
 
-### **On-chain Art & NFT Infrastructure**  
+ **On-chain Art & NFT Infrastructure**  
 ex Lead core development of a fully on-chain generative art game — on-chain state, on-chain metadata, full contract architecture. ERC-721/1155/721A, custom ERC-6551-style proxy wallet NFTs, gas-optimized token contracts.
 
-### **Frontend & Backend**  
+ **Frontend & Backend**  
 Production DApps in React / Next.js (Redux, MUI, Ant Design), TypeScript, Node.js. Subgraphs with The Graph, GraphQL APIs, ethers.js / viem / wagmi / web3-react integrations.
